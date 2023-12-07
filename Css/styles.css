@@ -8,7 +8,8 @@ body {
     width: 30vw;
     background-color: #B2FFA8;
     height: 30vh;
-    margin-top: 180px;
+    margin-top: 200px;
+    margin-left: 26rem;
     border-radius: 5px;
 
 }
@@ -28,6 +29,7 @@ body {
     margin-top: 20px;
     margin-right: 150px;
     height: 30px;
+    margin-left: 10rem;
 }
 
 
