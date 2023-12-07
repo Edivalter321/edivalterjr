@@ -1,0 +1,38 @@
+* {
+    background-image: url(./fundo.jpg);
+    background-attachment: fixed;
+    margin: auto;
+    padding:auto;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    font-size: 24px;
+    color: black;
+}
+img {
+    width:40%;
+    align-content: center;
+    border-radius: 20px 20% / 30px 30%;
+    
+}
+.container {
+    text-align: center;
+    margin-top: 12rem;
+}
+#container {
+    text-align: center;
+    margin-top: 12rem;
+}
+
+#menu_01 {
+    position:static;
+    top: 5%;
+    display: flex;
+    margin-top: 8vh;
+}
+a {
+    text-decoration: none;
+    list-style: none;
+
+
+
+}
