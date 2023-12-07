@@ -1,0 +1,33 @@
+body {
+    margin: 0 auto;
+    padding: 0 auto;
+    background-color: rgb(154, 137, 137);
+}
+.container {
+    margin: 0;
+    width: 30vw;
+    background-color: #B2FFA8;
+    height: 30vh;
+    margin-top: 180px;
+    border-radius: 5px;
+
+}
+.container .inputs_nome {
+    padding-left: 60px;
+    padding-top: 50px;
+    background-color: #5c6d59;
+    border-radius: 5px;
+
+}
+
+.container .inputs_senha {
+    margin-left: 60px;
+    margin-top: 10px;
+}
+.container button {
+    margin-top: 20px;
+    margin-right: 150px;
+    height: 30px;
+}
+
+
